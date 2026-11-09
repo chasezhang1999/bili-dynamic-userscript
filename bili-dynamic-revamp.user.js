@@ -13,6 +13,10 @@
 // @grant        GM_setValue
 // @run-at       document-start
 // @noframes
+// @homepageURL  https://github.com/chasezhang1999/bili-dynamic-userscript
+// @supportURL   https://github.com/chasezhang1999/bili-dynamic-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chasezhang1999/bili-dynamic-userscript/main/bili-dynamic-revamp.user.js
+// @downloadURL  https://raw.githubusercontent.com/chasezhang1999/bili-dynamic-userscript/main/bili-dynamic-revamp.user.js
 // ==/UserScript==
 
 /*

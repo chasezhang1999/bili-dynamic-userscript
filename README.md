@@ -40,7 +40,7 @@
 ## 安装
 
 1. 浏览器装上 Tampermonkey（篡改猴）扩展。Chrome/Edge 新版本还要在扩展详情页打开「允许运行用户脚本」（旧版本是打开扩展页右上角的「开发者模式」）。
-2. 打开 Tampermonkey 管理面板 →「实用工具」→「从文件导入」，选 `bili-dynamic-revamp.user.js`；或者「添加新脚本」，把文件内容整个粘贴进去保存。以后更新也一样，导入新文件覆盖旧的就行。
+2. **一键安装 / 更新**：直接打开 [`bili-dynamic-revamp.user.js` (Raw)](https://raw.githubusercontent.com/chasezhang1999/bili-dynamic-userscript/main/bili-dynamic-revamp.user.js)，Tampermonkey 会自动弹出安装或升级页面；日常在 Tampermonkey 面板点「检查更新」即可拉取新版。（手动安装：打开 Tampermonkey 管理面板 →「实用工具」→「从文件导入」，选 `bili-dynamic-revamp.user.js`；或者「添加新脚本」，把文件内容整个粘贴进去保存。）
 3. 刷新 t.bilibili.com，或者随便打开一个视频。
 
 ## 须知
